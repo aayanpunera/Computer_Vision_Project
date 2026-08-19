@@ -1,3 +1,5 @@
+[Setup tutorial = https://youtu.be/r0RspiLG260?si=yGZHPEx8FEhbQx66]
+
 First download Anaconda 
  
 Open Anaconda prompt and setup environment and install label studio using anaconda prompt 
@@ -13,3 +15,4 @@ start label studio by writing command
 
 import all the iframes to label studio and start labeling them
 after labeling all the images export them as Yolo images
+
